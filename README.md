@@ -1,6 +1,6 @@
 Supplementary Data
 
-The attached file contains the mp_id, transverse and longitudinal group velocities, and the number of sites in the primitive cell for all materials included in our screening. All data were generated using the MACE machine-learning interatomic potential.
+The attached file contains the mp_id, transverse and longitudinal speed of sound, and the number of sites in the primitive cell for all materials included in our screening. All data were generated using the MACE machine-learning interatomic potential.
 
 Note that the sound of speed can be evaluated by equation from the following literatures: 
 O. L. Anderson, J. Phys. Chem. Solids 24, 909 (1963).
