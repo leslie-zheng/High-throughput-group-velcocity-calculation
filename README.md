@@ -2,7 +2,7 @@ Supplementary Data
 
 The attached file contains the mp_id, transverse and longitudinal speed of sound, and the number of sites in the primitive cell for all materials included in our screening. All data were generated using the MACE machine-learning interatomic potential.
 
-Note that the sound of speed can be evaluated by equation from the following literatures: 
+Note that the speed of sound can be evaluated by equation from the following literatures: 
 O. L. Anderson, J. Phys. Chem. Solids 24, 909 (1963).
 L. E. Kinsler, A. R. Frey, and J. V. Sanders, Fundamentals of Acoustics (Wiley, New York, 2000).
 Jia, T., Chen, G., & Zhang, Y. (2017). Lattice thermal conductivity evaluated using elastic properties. Physical Review B, 95(15), 155206.
